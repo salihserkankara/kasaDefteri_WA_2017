@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\user\Desktop\onurpub</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/onur.mdf">
+      <publishTime>06/01/2017 23:33:55</publishTime>
+    </File>
+    <File Include="App_Data/onur_log.ldf">
+      <publishTime>06/01/2017 23:33:55</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>06/02/2016 17:42:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.DataVisualization.dll">
+      <publishTime>06/02/2016 17:42:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <publishTime>06/02/2016 17:42:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>05/29/2015 21:27:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/23/2012 16:23:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>06/01/2017 23:33:55</publishTime>
+    </File>
+    <File Include="cikan.aspx">
+      <publishTime>04/28/2017 19:38:03</publishTime>
+    </File>
+    <File Include="DataSet1.xsc">
+      <publishTime>04/29/2017 12:42:20</publishTime>
+    </File>
+    <File Include="DataSet1.xss">
+      <publishTime>04/29/2017 12:42:20</publishTime>
+    </File>
+    <File Include="DataSet2.xsc">
+      <publishTime>06/01/2017 22:33:43</publishTime>
+    </File>
+    <File Include="DataSet2.xss">
+      <publishTime>06/01/2017 22:33:42</publishTime>
+    </File>
+    <File Include="DataSet3.xsc">
+      <publishTime>06/01/2017 23:32:53</publishTime>
+    </File>
+    <File Include="DataSet3.xss">
+      <publishTime>06/01/2017 23:32:54</publishTime>
+    </File>
+    <File Include="giren.aspx">
+      <publishTime>04/28/2017 19:36:21</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/25/2017 18:26:16</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/01/2017 19:49:39</publishTime>
+    </File>
+    <File Include="rapor.aspx">
+      <publishTime>06/01/2017 23:33:25</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>04/25/2017 18:26:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/23/2017 20:15:37</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>05/31/2017 18:28:12</publishTime>
+    </File>
+    <File Include="yardim.aspx">
+      <publishTime>04/29/2017 12:26:02</publishTime>
+    </File>
+    <File Include="yazdir.aspx">
+      <publishTime>04/28/2017 20:04:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
